@@ -1,1 +1,1 @@
-# better_discogs_wishlist
+# better_discogs_wantlist
